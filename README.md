@@ -15,6 +15,11 @@ PHP8.2
 
 - [Simple and Fast Signifly/laravel-shopify documentation](https://signifly.notion.site/Laravel-Shopify-424709fa6dd84defb0879ab8a1cb29fa).
 
+## Shopify API TEST
+
+- [http://localhost:8000/shop]          - To create request for client.
+- [http://localhost:8000/shop/test]     - To send your shop with client requests and show response from your shop. The count of products will be shown when response is successful.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
