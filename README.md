@@ -11,6 +11,10 @@
 
 PHP8.2 
 
+## Shopify API
+
+<a href="https://signifly.notion.site/Laravel-Shopify-424709fa6dd84defb0879ab8a1cb29fa"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
