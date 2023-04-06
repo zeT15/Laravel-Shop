@@ -13,7 +13,7 @@ PHP8.2
 
 ## Shopify API
 
-<a href="https://signifly.notion.site/Laravel-Shopify-424709fa6dd84defb0879ab8a1cb29fa"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+- [Simple and Fast Signifly/laravel-shopify documentation](https://signifly.notion.site/Laravel-Shopify-424709fa6dd84defb0879ab8a1cb29fa).
 
 ## About Laravel
 
